@@ -1,0 +1,47 @@
+h2.name{
+    border-style: groove;
+    border-color: white;
+    text-align: justify;
+}
+
+ul.informations{
+    width: right;
+    border-left-style: solid;
+    border-left-width: thick;
+    border-left-color:#0000ff;
+    
+}
+
+h1.title{
+    color: navy;
+    text-decoration: underline;
+    
+}
+
+
+h1.red{
+    color:white;
+    background-color: black;
+}
+
+body{
+    background-color:beige;
+    font-family:Arial, sans-serif;
+}
+
+strong{
+    font-family:Arial, sans-serif;
+}
+
+mark.souligné{
+    text-decoration: underline;
+}
+
+strong.color{
+    color: red;
+}
+
+img{
+    width: 5cm;
+}
+

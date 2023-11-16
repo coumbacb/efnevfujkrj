@@ -1,0 +1,24 @@
+img{
+    width: 5cm;
+}
+
+h1.titre{
+    color:navy;
+    text-decoration: underline;
+}
+
+h2.name{
+    border-style: groove;
+    border-color: white;
+    text-align: justify;
+}
+
+strong.color{
+    color: red;
+}
+
+body{
+    background-color:beige;
+    font-family:Arial, sans-serif;
+}
+

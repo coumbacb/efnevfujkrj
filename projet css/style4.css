@@ -1,0 +1,24 @@
+img{
+    width: 5cm;
+}
+
+h2.name{
+    border-style: groove;
+    border-color: white;
+    text-align: justify;
+}
+
+strong.color{
+    color: red;
+}
+
+h1.title{
+    color: navy;
+    text-decoration: underline;
+    
+}
+
+body{
+    background-color:beige;
+    font-family:Arial, sans-serif;
+}
